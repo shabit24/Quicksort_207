@@ -15,6 +15,14 @@ void input() {
         else
             cout << "\n Masukan penjnag array 20";
     }
+    cout << " \n ==================";
+    cout << "\n Enter array Element";
+    cout << "\n ===================";
+
+    for (int i = 0; i < n;i++);
+    {
+        cout << "<" << (i + 1) << ">";
+    }
 }
 
 
