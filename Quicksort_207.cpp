@@ -13,7 +13,8 @@ void input() {
         if (n <= 20)
             break;
         else
-            cout << "\n Masukan penjnag array 20"
+            cout << "\n Masukan penjnag array 20";
     }
 }
+
 
