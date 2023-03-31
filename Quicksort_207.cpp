@@ -35,3 +35,14 @@ void swap(int x; int y;)
     arr[x] = arr[y];
     arr[y] = temp;
 }
+
+
+void q_sort(int low; int high)
+{
+    int pivot, i, j;
+    if (low > high)
+        return         // langkah 1
+
+
+}
+
